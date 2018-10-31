@@ -1,0 +1,10 @@
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.frmDebtRatio.resources
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.Properties.Resources.resources
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\bin\Debug\kukushkinProject3A.exe.config
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\bin\Debug\kukushkinProject3A.exe
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\bin\Debug\kukushkinProject3A.pdb
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.exe
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project3A\kukushkinProject3A\kukushkinProject3A\obj\Debug\kukushkinProject3A.pdb
